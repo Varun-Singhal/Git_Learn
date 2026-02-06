@@ -9,3 +9,7 @@ I am in git 1
 
 
 Hi, from git 1
+New cmmit 
+
+
+hI FROM GIT 2
