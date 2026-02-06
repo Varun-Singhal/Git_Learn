@@ -7,7 +7,10 @@ Checking and updating
 This is line 7. Oh No
 
 New cmmit 
+<<<<<<< HEAD
 
 Hi
 
 Hello
+=======
+>>>>>>> parent of dd13282 (Hi 1)
