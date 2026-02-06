@@ -2,8 +2,10 @@ THis is a test file
 
 I am in git 1
 
-Checking and updating
 
-This is line 7. Oh No
 
-New cmmit 
+
+
+
+
+Hi, from git 1
